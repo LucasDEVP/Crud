@@ -1,0 +1,10 @@
+	package bytebank;
+
+public class TesteReferencias {
+	
+	public static void main(String[] args) {
+		Conta primeiConta = new Conta();
+		primeiraConta.saldo = 300;
+	}
+
+}

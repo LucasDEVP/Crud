@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\lucas\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\876873999.index
+\Crud1.jsp\src
+C:\Users\lucas\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\607453411.index
+\Crud.jsp\src
+C:\Users\lucas\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2267092882.index
+\Hello.jsp\src
+C:\Users\lucas\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\468338927.index
+\agenda1\src
